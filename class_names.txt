@@ -1,0 +1,17 @@
+Char_Kway_Teow
+ayam_goreng
+bak_kut_teh
+burger
+fried_rice
+hainanese_chicken_rice
+idli
+kaya_toast
+laksa
+mixed_rice
+nasi_lemak
+popiah
+rendang_daging
+roti_canai
+satay
+teh_tarik
+tosai
